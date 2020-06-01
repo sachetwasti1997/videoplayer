@@ -1,0 +1,9 @@
+.boxCard{
+    display: flex;
+    /* box-shadow: 1px 1px 10px 0px black; */
+    padding: 10px;
+    border-radius: 10px;
+    /* margin: 10px; */
+    /* align-items: center; */
+    cursor: pointer;
+}
